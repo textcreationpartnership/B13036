@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for preuenting the dearth of corne and victuall.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13036</idno><idno type="EEBO-CITATION">99892466</idno>
+  <idno type="VID">185598</idno>
+  <idno type="EEBO-PROQUEST">2248561813</idno>
+  
+            <idno type="STC">ESTC S3463</idno>
+            <idno type="STC">STC 8966</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.11[9]</idno>
+            <idno type="STC">ESTC S3463</idno>
+            <idno type="PROQUEST">ocm99892466</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892466e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13036)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185598)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:2[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for preuenting the dearth of corne and victuall.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>5 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most Excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M. DC. XXX. [1630]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Hampton, the eight and twentieth day of September, in the sixt yeere of His Maiesties reigne ... .</note>
+                  <note>Arms 21; Steele notation: (whose  good  2) all  3) Colledges  4) co-  5) Pro-  Commandement,.</note>
+                  <note>Identified as STC 9250.7 on UMI microfilm set "Early English books, 1475-1640", reel 1984.</note>
+                  <note>Reproduction of the original in the British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Food supply --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185598:1"/>
+            <head>❧ By the King.</head>
+            <head type="sub">❧ A Proclamation for preuenting the dearth of Corne and Victuall.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings most Excellent Maiestie, (whose</hi> watchfull Eye of prouidence, for the publique good of His louing Subiects, is alwayes kept open) hath lately taken into His Prince<g ref="char:EOLhyphen"/>ly consideration, the generall scarcitie and dearth of Graine and Victuall like to fall out, and much feared this yeere following in many parts of this Kingdome. And hauing vpon aduice with the Lords of his Maiesties Priuy Counsell, considered of such good meanes as haue been heretofore vsed vpon the like occasion, and some others, which by a due and seasonable execution, may (by Gods blessing) preuent those extremities, which otherwise the scarcitie threatned, may bring foorth, doeth by this His Proclamation publish and declare His Royall pleasure and Commandement therein, for the good of His people, in the seuerall Articles here ensuing.</p>
+            <p>First, wheras His Maiesti<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath with the aduice of His said Priuie Counsell, caused a Booke of Orders, for preuenting and remedying the dearth of Graine and Victuall, (which was first conceiued and made in the time of the late Queene <hi>Elizabeth,</hi> and afterwards renewed in the time of His Maiesties Royall Father of blessed memory) to bee againe reuised and enlar<g ref="char:EOLhyphen"/>ged with some necessary additions, grounded vpon the Statutes made since the first publish<g ref="char:EOLhyphen"/>ing thereof, and hath taken care for reprinting of the same; whereby particular directions are giuen for suppressing the abuses and offences of Ingrossers, Badgers, Broggers, Carri<g ref="char:EOLhyphen"/>ers, and Buyers of Corne, Mault-makers, Brewers, Bakers, Milners, and others Tra<g ref="char:EOLhyphen"/>ding in Corne, as also for causing the Assize of Bread and Beere to bee truely kept, and the Markets duely supplyed with Corne, and the poore first serued and prouided for, with other like clauses to the good purpose aforesayd: His Maiestie straitly chargeth and commandeth, aswell the Lord Maior, Recorder, Aldermen and Sheriffes of the Citie of <hi>London,</hi> and all o<g ref="char:EOLhyphen"/>ther Officers and Ministers of the sayd Citie, as also all and singular Sheriffes, Iustices of
+<pb n="2" facs="tcp:185598:2"/> Peace, and other Officers and Ministers in the seuerall Counties of this Realme, and all Maiors, Sheriffes, Bayliffes, Aldermen, and other Magistrates, Officers and Ministers of all other Cities and Townes Corporate, that they and euery of them, within their seue<g ref="char:EOLhyphen"/>rall Limits and Iurisdictions respectiuely, doe carefully and diligently put in due and spee<g ref="char:EOLhyphen"/>die execution the said Orders and Directions, and euery of them, according to his Maiesties expresse pleasure therein signified, as they will auoyd his Maiesties iust indignation, and such further punishments as shall or may bee inflicted vpon them, for their neglect of any the due<g ref="char:EOLhyphen"/>ties of their seuerall places, and the contempt of this his Maiesties Royall Commandement.</p>
+            <p>And because in the scarcitie of Corne, the plenty and cheapnesse of other Victuals, may helpe to giue some ease and reliefe to the poore, and the forbearing of Flesh, aswell in the time of Lent, as vpon other Fish-dayes, may bee a good meanes to draw downe the prices of Flesh, and will also be a good incouragement for the Trade of Fishing, when the certain Vent and Sale of Fish shall be prouided for.</p>
+            <p>And whereas His Maiestie vpon vome of these considerations, hath by his Highnesse Pro<g ref="char:EOLhyphen"/>clamation bearing date at the Court at <hi>White Hall,</hi> the eighteenth day of Ianuary last past, set downe certaine Orders and particular Directions for restraint of killing, dressing, and ea<g ref="char:EOLhyphen"/>ting of Flesh in Lent, and vpon other Fish-dayes, to be duely and strictly obserued, both for the time of Lent then following, and for all succeeding times, as thereby appeareth; His Maiestie hath iust cause to be offended at the Supine remissenesse, and wilfull contempt gene<g ref="char:EOLhyphen"/>rally committed and suffered by the inordinate libertie taken by all sorts of people against the good and wholesome Orders conteined in the said Proclamation, vpon such weightie Rea<g ref="char:EOLhyphen"/>sons grounded, and in such strict termes deliuered and enioyned.</p>
+            <p>And therefore being resolued to take a more strict account thereof for the time to come, both at the hands of the Officers to whom the execution thereof is committed, and of euery priuate person that shall presume to disobey the same; especially in this time of generall feare, and ex<g ref="char:EOLhyphen"/>pectation of Dearth (if by good and politique rule and order the same be not in some good mea<g ref="char:EOLhyphen"/>sure preuented) doth hereby straightly charge and command aswell the Lord Maior of the Citie of <hi>London,</hi> for and within the said Citie and the Liberties thereof, and all and singuler Maiors, chiefe Officers of other Cities, and Townes Corporate, and also the Iustices of Peace, within the seuerall Counties of <hi>England</hi> and <hi>Wales,</hi> that they and euery of them within the seuerall limits of their Commissions and Iurisdictions respectiuely, doe forthwith more diligently and carefully see and cause that the said Proclamation of the eighteenth of Ianuary last, and all Articles and Clauses therein contained, be both in Lent next, and at all other times from henceforth duely and strictly obserued and performed in euery point, vpon paine of His Maiesties high displeasure, and such Penalties as by the Lawes of this Realme may bee in<g ref="char:EOLhyphen"/>flicted vpon the offenders, for their neglect or contempt of his Maiestie or his Lawes, vpon this second warning.</p>
+            <p>And whereas by an ancient and laudable Custome no suppers were wont to bee kept on Fridayes, or the Eues of Feasts commanded to be fasted, nor vpon Wednesdayes, or Satur<g ref="char:EOLhyphen"/>dayes in the Ember Weekes and time of Lent, but a generall abstinence from Suppers on those nights: And the same course is to this day for the most part obserued, not onely in his Maiesties most Honourable houshold, and in the Families of most of the Nobilitie and great
+<pb n="3" facs="tcp:185598:3"/> men of the Kingdome; but also in the Innes of Court and Chancery, and in the Colledges and Halles of both Vniuersities, and all other publique places of good orders, and in the houses of many Knights and Esquires that are most commended for good House keeping, ac<g ref="char:EOLhyphen"/>cording to the ancient manner of <hi>England,</hi> for which this Realme hath heretofore been so much honoured. Howbeit that good and laudable custome is dayly more and more neglected, and that good order broken especially in Tauernes, Innes, Ordinaries, Houses of Dicing and Playing, Cookes houses, and other Victualling houses, where commonly there is more waste and excesse on the Fasting nights, then in any time of the weeke besides.</p>
+            <p>His Maiestie therefore doeth straitly charge and command, that this said ancient and lau<g ref="char:EOLhyphen"/>dable custome bee strictly obserued in all and singuler Tauernes, Innes, Ordinaries, houses of Dicing and Play, Cookes houses, and other Victualling houses, and that no Suppers bee in them, or any of them, or by the owners of them or any of them, or their seruants had, dressed or prouided for to bee eaten either in their owne houses, or elsewhere, vpon any the Fasting nights aforesayd; And that in the Bonds or Recognizances to bee taken of them for obseruation of Lent and Fish dayes, this Article bee specially remembred and proui<g ref="char:EOLhyphen"/>ded for.</p>
+            <p>And as His Maiestie doeth commaund this course to bee obserued in the places aforesayd, so Hee doeth with the Aduice of His Priuy Counsell, commend the same course to the rest of His Subiects in their priuate Families, in this time of Scarcitie, and that they would, out of that which shall bee saued by this abstinence, and by their sober and moderate dyet at other times, charitably and bountifully employ some good proportion towards the reliefe of those that shall be in penury and want, and would be glad to be refreshed with the meanest of that foode which is superfluously spent in Rich-mens houses.</p>
+            <p>And for the same end, His Maiestie by like Aduice of His Priuie Counsell doeth will and ordaine, that the vsual Feasts at the Halles of Companies in <hi>London,</hi> which at other times haue beene, and may bee vsed, bee, during the time of Sicknesse or Dearth this yeere for<g ref="char:EOLhyphen"/>borne.</p>
+            <p>And because the sayd Societies and Companies shall by this meanes of putting ouer their Feastes, spare much money of that which hath beene heretofore vsually spent that way, His Maiestie doeth specially recommend it vnto them; that those who should haue borne the Charge of those Feastes, would allow, if not more, yet at the least the one halfe of what that Charge would haue come vnto, towards the reliefe of the poore, which being order<g ref="char:EOLhyphen"/>ly disbursed, will bee a great comfort vnto them, and will bee a matter of great Charitie in the doers thereof, and beeing by them accordingly performed, His Maiestie will graci<g ref="char:EOLhyphen"/>ously accept thereof, and will finde meanes to giue them their due commendation and Right; as on the contrary, Hee shall haue cause to remember the hardnesse of their hearts which in this time of want shall shew themselues so mercilesse, as not to distribute vpon the poore, one halfe of that, which they would bee content to spend on a Feast, which may well bee spared.</p>
+            <p>And whereas his Maiestie is informed, that sundry Merchants, Strangers and A<g ref="char:EOLhyphen"/>liens of Forraigne Countreys, in Amitie with his Maiestie, haue been heretofore accusto<g ref="char:EOLhyphen"/>med to bring their Shippes and other Vessels from their owne Countreys, into some of the
+<pb n="4" facs="tcp:185598:4"/> Portes, Hauens, or Creekes of <hi>England</hi> or <hi>Wales,</hi> Vnuictualled of purpose, that vnder co<g ref="char:EOLhyphen"/>lour of taking in a supply of Fresh-Victuals for their necessities, they might Victuall them<g ref="char:EOLhyphen"/>selues, and their Shippe-Company from hence for other long Voyages, whereby such Strangers haue beene suffered to carry away much of the Corne and Victuals, where<g ref="char:EOLhyphen"/>withall His Maiesties owne Subiects should haue beene sustayned and relieued, and they by that meanes pinched with want, which in time of Scarcitie is by no meanes to bee suf<g ref="char:EOLhyphen"/>fered.</p>
+            <p>His Maiestie therefore doeth by this Proclamation giue in expresse Charge and Com<g ref="char:EOLhyphen"/>mand, as well the Lord Maior of <hi>London,</hi> for the Port of <hi>London,</hi> as to all Maiors and o<g ref="char:EOLhyphen"/>ther Magistrates of the Out-Ports, and all Creekes and Harborough Townes, and to all Sheriffes and Iustices of Peace of the Maritine Counties, as also to all Customers, Comp<g ref="char:EOLhyphen"/>trollers, Searchers, and other His Maiesties Officers of His Customes, and to euery of them respectiuely, that they in no wise suffer any such thing to bee done hereafter: Not<g ref="char:EOLhyphen"/>withstanding, If any such Aliens or Strangers shall with their Ships or other Vessels by distresse of weather at Sea, or other ineuitable accident be driuen into any the Ports, Hauens, Creeks or Harboroughs aforesayd; His Maiestie is well pleased, that they shall haue libertie to prouide and take vp such quantities of Victuals, and proportion of necessaries for their Ship-Company onely, as by the Lord Maior of <hi>London</hi> for the Port of <hi>London,</hi> or by the Maior or chiefe Magistrate of the sayd Port Towne, Hauen or Creeke in the Out-Ports, where the sayd Ship shall be driuen in, and by two of the next Iustices of Peace of the County ad<g ref="char:EOLhyphen"/>ioyning, shall bee thought fit to bee allowed for their necessary sustenance, in their returne in<g ref="char:EOLhyphen"/>to their owne Countreys onely, and not otherwise: And these proportions so allowed by them to be set downe in writing, vnder their hands, to be certified to the Lord Treasurer of <hi>England,</hi> within fourty dayes after such allowance giuen.</p>
+            <p>And in like manner, His Maiestie doeth hereby giue a speciall Charge as well to the Lord Maior of the Citie of <hi>London,</hi> and all Maiors and Magistrates of the Out-Portes, as also to all Sheriffes, and Iustices of Peace of the Maritine Counties, and all and singu<g ref="char:EOLhyphen"/>lar His Maiesties Officers of His Customes, for their seuerall Limites, places of atten<g ref="char:EOLhyphen"/>dance, and Iurisdictions respectiuely, that the Articles specified in the said Imprinted Booke of Orders for restrayning the Exportation of Corne and Victuall be duely and carefully ob<g ref="char:EOLhyphen"/>serued and put in execution.</p>
+            <p>Lastly, His Maiestie doeth hereby signifie and declare to all and singular Maiors, She<g ref="char:EOLhyphen"/>riffes, Iustices of Peace, Bayliffes, Aldermen, and other His Officers, Ministers and Subiects whome it may concerne; That as His Maiestie hath published this His Royall Proclamation, and the sayd Imprinted Orders for the safety, weale and plenty of His peo<g ref="char:EOLhyphen"/>ple, and for the preseruing of the liues and health of the poore, against Famine, and the diseases which follow the want of wholesome foode, and doubteth not but good effects will ensue thereof, if euery man in his place will readily and willingly put to a helping hand,
+<pb facs="tcp:185598:5"/> for the execution of the good Orders conteined in the sayd Booke, and in this His Pro<g ref="char:EOLhyphen"/>clamation: So, if by neglect, or contempt hereof, those euill effects which may then bee feared, doe ensue, His Maiestie and His Throne are innocent; And the offendours as they may well expect the iust Iudgement of Almighty God, so let them bee assured, that His Maiestie will require a strict and seuere accompt of them, and inflict such punishment on them, as those persons deserue, who doe incurre His high displeasure and indigna<g ref="char:EOLhyphen"/>tion, and as may iustly bee inflicted vpon the contemners of His Royall Commandement, in a case of such necessity and importance.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at His MAIESTIES Court at Hampton,</hi>
+                  <date>
+                     <hi>the eight and twentieth day of September, in the sixt yeere of His MAIESTIES Reigne of Great Britaine, France and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>❧ <hi>God saue the King.</hi> ❧</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Prin<g ref="char:EOLhyphen"/>ter to the Kings most Excellent Maiestie: and by the Assignes of Iohn Bill. M.DC.XXX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
